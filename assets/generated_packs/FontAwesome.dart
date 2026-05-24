@@ -1,7 +1,7 @@
 import 'package:flutter_iconpicker/flutter_iconpicker.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
-const Map<String, IconPickerIcon> fontAwesomeIcons = {
+final Map<String, IconPickerIcon> fontAwesomeIcons = {
   'zero': IconPickerIcon(
     name: 'zero',
     data: FontAwesomeIcons.zero.data,
